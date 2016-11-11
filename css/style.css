@@ -91,10 +91,11 @@ header {
 }
 
 .numbering-navigation {
-  margin: 0 0 49px 10px;
+  margin-left: 10px;
 }
 
-footer .container {
+footer {
+  margin-top: 49px;
   padding-top: 58px;
 }
 
@@ -118,7 +119,6 @@ footer .container {
   float: left;
   width: 460;
   height: 668px;
-  margin-bottom: 49px;
 }
 
 .big-preview {
